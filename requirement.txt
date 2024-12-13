@@ -6,4 +6,8 @@ langchain_core
 fastapi
 uvicorn
 langserve
-
+pandas
+langchain-groq
+str
+streamlit
+pypdf
